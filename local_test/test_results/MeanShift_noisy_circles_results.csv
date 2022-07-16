@@ -1,0 +1,2 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+MeanShift,noisy_circles,0.5018,-0.0003,0.7486,5063.1913,0.4001,0.02

@@ -1,0 +1,2 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+MeanShift,noisy_moons,0.875,0.4564,0.8345,6281.4577,0.4759,0.02

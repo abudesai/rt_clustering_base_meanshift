@@ -1,0 +1,7 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+MeanShift,anisotropic,0.6494,0.4265,0.8318,5822.6639,0.4572,0.02
+MeanShift,equal_variance_blobs,0.9536,0.8272,0.6471,7485.7443,0.5402,0.02
+MeanShift,noisy_moons,0.875,0.4564,0.8345,6281.4577,0.4759,0.02
+MeanShift,noisy_circles,0.5018,-0.0003,0.7486,5063.1913,0.4001,0.02
+MeanShift,unequal_variance_blobs,0.9636,0.8886,0.5467,23774.3658,0.6479,0.02
+MeanShift,no_structure,1.0,1.0,n/a,n/a,n/a,0.01

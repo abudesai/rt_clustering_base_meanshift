@@ -1,0 +1,10 @@
+[
+  {
+    "name": "init",
+    "short_desc": "Method for initialization",
+    "default": "k-means++",
+    "type": "categorical",
+    "categorical_vals": ["k-means++", "random"],
+    "run_HPO": true
+  }
+]

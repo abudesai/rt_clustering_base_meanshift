@@ -1,0 +1,2 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+MeanShift,anisotropic,0.6494,0.4265,0.8318,5822.6639,0.4572,0.02

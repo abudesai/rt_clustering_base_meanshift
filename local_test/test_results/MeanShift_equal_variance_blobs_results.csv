@@ -1,0 +1,2 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+MeanShift,equal_variance_blobs,0.9536,0.8272,0.6471,7485.7443,0.5402,0.02
